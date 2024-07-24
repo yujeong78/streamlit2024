@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.write('Hello World')
-st.writee('신유정')
+st.write('신유정')
